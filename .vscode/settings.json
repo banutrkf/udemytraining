@@ -1,0 +1,7 @@
+{
+    "go.docsTool": "gogetdoc",
+    "go.useLanguageServer": true
+  //  "go.gopath": null,
+  //  "go.toolsGopath": "",
+  //  "go.goroot": null
+}
